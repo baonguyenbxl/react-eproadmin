@@ -1,0 +1,12 @@
+.bannerdiv {
+  width:100%;
+  background-color:rgb(197, 172, 127);
+  height:40px;
+  text-align:center;
+  color:#5b5b5b;
+  padding:30px;
+}
+
+.bannertext {
+  font-size: 30px;
+}
