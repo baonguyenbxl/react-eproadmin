@@ -5,8 +5,23 @@
   color:#ffffff;
   padding-top:10px;
     background-color: rgb(77, 131, 64);
+
 }
 
 .bannertext {
   font-size: 50px;
+  position:relative;
+}
+.bannerlogo {
+  position: relative;
+  width:50px;
+  height:50px;
+  margin-left:20px;
+  margin-right:20px;
+  margin-top: 10px;
+}
+
+.bannersub {
+margin-left:20px;
+margin-right:20px;
 }

@@ -1,6 +1,11 @@
 import { useContext } from "react";
 import "./menu.css"
+// datagrid
 import { DataTable } from "../components/datagrid/datagrid"
+// search fields
+import { SearchDoc } from "../components/searchdoc/searchdoc";
+
+// context set main composant
 import { SetMainComposant } from "../../App"
 
 // Nouvelles affaires
@@ -53,7 +58,7 @@ export const Menu = () =>
   const setComposant = useContext( SetMainComposant )
 
   return ( <div className="menudiv">
-    <div className="iconlink" onClick={ () => { setComposant(<></> ) } }>
+    <div className="iconlink" onClick={ () => { setComposant( <SearchDoc /> ) } }>
       <i className="fa">&#xf06e;</i><br />
       <label>Accès rapide</label>
     </div>
