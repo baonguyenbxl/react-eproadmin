@@ -3,7 +3,6 @@ import { Banner } from "./header/banner/banner";
 import { Menu } from "./body/menu/menu"
 import { Main} from "./body/main/main"
 import { useState, createContext } from "react";
-import { DataTable } from "./body/components/datagrid/datagrid";
 export const MainComposant = createContext();
 export const SetMainComposant = createContext();
 

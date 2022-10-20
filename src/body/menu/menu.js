@@ -5,6 +5,12 @@ import { DataTable } from "../components/datagrid/datagrid"
 // search fields
 import { SearchDoc } from "../components/searchdoc/searchdoc";
 
+import { AffaireTimeline } from "../components/timeline/timeline";
+
+import { DocViewer } from "../components/pdfviewer/pdfviewer";
+
+import donnees from "../../jsons/ga236833.json"
+
 // context set main composant
 import { SetMainComposant } from "../../App"
 
@@ -42,11 +48,11 @@ export const Menu = () =>
       <ATraiter fontSize="large" /><br />
       <label>A traiter</label>
     </div>
-    <div className="iconlink" onClick={ () => { setComposant( <></> ) } }>
+    <div className="iconlink" onClick={ () => { setComposant( <AffaireTimeline data={donnees} /> ) } }>
       <GAD fontSize="large" /><br />
       <label>GAD</label>
     </div>
-    <div className="iconlink" onClick={ () => { setComposant( <></> ) } }>
+    <div className="iconlink" onClick={ () => { setComposant( <DocViewer /> ) } }>
       <PreGAD fontSize="large" /><br />
       <label>pre-GAD</label>
     </div>

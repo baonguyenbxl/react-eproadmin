@@ -1,0 +1,16 @@
+.pdfbutton {
+  height:60px;
+width: 100px;
+border-radius: 15px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.pdfbutton:hover {
+  font-size: 14px;
+}
+
+.pdfdocdiv {
+  width: 100%;
+
+}
