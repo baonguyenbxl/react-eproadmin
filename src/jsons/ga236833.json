@@ -1,0 +1,73 @@
+[
+  {
+    "id":"BC/dw-365831825",
+    "gabarit": "Retrait d'acte", 
+    "envoye":"19.10.2022",
+    "vers":"N. Van Damme, L. Feron, P. Lejeune, A. Zians, J. Merodio-Angulo, G. Poquette, S. Matray, P. Marchal"
+    },{
+    "id":"BC/ur-365520700",
+    "gabarit": "Confirmation Pièce de procédure", 
+    "envoye":"18.10.2022",
+    "vers":"G. Bihain"
+    },{
+    "id":"BC/mn-357090780",
+    "gabarit": "Validation Rapport article 93", 
+    "envoye":"12.09.2022",
+    "vers":"J. Merodio-Angulo, N. El Mokhtari, G. Poquette, T. Wimmer, P. Lejeune, A. Zians, L. Feron, P. Henry, N. Van Damme, P. Marchal, G. Bihain, S. Matray"
+    },{
+    "id":"BC/od-354095717",
+    "gabarit": "Validation Requête intervention [REQ]", 
+    "envoye":"29.08.2022",
+    "vers":"N. Van Damme, J. Merodio-Angulo, L. Feron, A. Zians"
+    },{
+    "id":"BC/vb-354094713",
+    "gabarit": "Validation Note d'observations [TOUS]", 
+    "envoye":"29.08.2022",
+    "vers":"J. Merodio-Angulo, L. Feron, N. Van Damme, A. Zians"
+    },{
+    "id":"BC/dx-353373713",
+    "gabarit": "Validation Note d'observations [TOUS]", 
+    "envoye":"24.08.2022",
+    "vers":"N. Van Damme, G. Poquette, S. Matray, A. Zians, J. Merodio-Angulo, L. Feron, P. Lejeune, P. Marchal"
+    },{
+    "id":"BC/hg-353368700",
+    "gabarit": "Confirmation Pièce de procédure", 
+    "envoye":"24.08.2022",
+    "vers":"G. Bihain"
+    },{
+    "id":"BC/tu-353365717",
+    "gabarit": "Validation Requête intervention [REQ]", 
+    "envoye":"24.08.2022",
+    "vers":"L. Feron, N. Van Damme, J. Merodio-Angulo, A. Zians"
+    },{
+    "id":"BC/hp-353364718",
+    "gabarit": "Validation Requête intervention [ADV]", 
+    "envoye":"24.08.2022",
+    "vers":"P. Henry, T. Wimmer, G. Bihain, N. El Mokhtari"
+    },{
+    "id":"BC/ko-353321602",
+    "gabarit": "Validation courrier paiement intervention [INT]", 
+    "envoye":"24.08.2022",
+    "vers":"P. Marchal, G. Poquette, P. Lejeune, S. Matray"
+    },{
+    "id":"BC/mf-353274700",
+    "gabarit": "Confirmation Pièce de procédure", 
+    "envoye":"24.08.2022",
+    "vers":"P. Lejeune"
+    },{
+    "id":"BC/df-349138601",
+    "gabarit": "Validation courrier paiement requérant [REQ]", 
+    "envoye":"01.08.2022",
+    "vers":"J. Merodio-Angulo, A. Zians, N. Van Damme, L. Feron"
+    },{
+    "id":"BC/hp-349136712",
+    "gabarit": "Enrôlement", 
+    "envoye":"01.08.2022",
+    "vers":"J. Merodio-Angulo, L. Feron, N. Van Damme, A. Zians"
+    },{
+    "id":"BC/ae-349129711",
+    "gabarit": "Dépôt nouvelle requête", 
+    "envoye":"01.08.2022",
+    "vers":"L. Feron"
+    }
+  ]

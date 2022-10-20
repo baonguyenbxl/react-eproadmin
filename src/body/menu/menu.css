@@ -3,7 +3,8 @@
   width: 100%;
   background-color:white;
   color:rgb(14, 78, 0);
-  font-size:16px;
+  font-size:12px;
+  padding-bottom: 20px;
 }
 
 .iconlink {
@@ -13,16 +14,7 @@
   padding:20px;
 }
 .iconlink:hover {
-  color:rgb(127, 127, 127);
+  color:rgb(170, 3, 3);
   cursor:pointer;
 }
 
-.fa {
-  font-size: 25px;
-}
-.fab {
-  font-size: 25px;
-}
-.fas {
-  font-size: 25px;
-}

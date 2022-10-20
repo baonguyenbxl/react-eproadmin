@@ -1,5 +1,6 @@
 import { useContext } from 'react';
 import "./searchdoc.css"
+import {InputTextRequired} from "../textrequired/textrequired"
 import { SetMainComposant } from "../../../App"
 
 export const SearchDoc = () =>
@@ -9,7 +10,7 @@ export const SearchDoc = () =>
   // label
   const labelSearch = ( <text>Entrez numéro d'affaire</text> )
   // input field
-  const inputSearch = ( <input type="text" /> )
+  const inputSearch = ( <InputTextRequired /> )
   // button 
   const buttonSearch = ( <div onClick={ () => { setComposant( reqSent ) } }>Chercher</div> )
 
